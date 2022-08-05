@@ -1,0 +1,9 @@
+//------------------------------------------------
+// pBehavior config block
+
+ProcessConfig = pBehavior
+{
+   AppTick   = 4
+   CommsTick = 4
+}
+
