@@ -49,11 +49,9 @@ int main(int argc, char *argv[])
 
   std::cout << "Enter x coordinate: ";
   std::cin >> x;
-  std::cout << std::endl;
 
   std::cout << "Enter y coordinate: ";
   std::cin >> y;
-  std::cout << std::endl;
 
   Behavior.SetXDestination(x);
   Behavior.SetYDestination(y);
