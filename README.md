@@ -36,6 +36,8 @@ Behavior = BHV_Waypoint {
     pwt       = 10000
     condition = MODE == GOING
 
+    updates   = GOTO_UPDATES
+
     point = 0,0
 
     speed = <VEHICLE_SPEED>
